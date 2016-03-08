@@ -4,6 +4,8 @@
 
 [课程 wiki](https://github.com/caochun/sa2016/wiki)
 
+已有翻译：[开源软件架构翻译计划](http://www.ituring.com.cn/minibook/19)(~~然而并没有 LLVM~~)
+
 ## 路线图
 
 1. 翻译 [AOSA LLVM 章节](http://aosabook.org/en/llvm.html)
