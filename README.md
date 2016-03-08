@@ -1,10 +1,10 @@
 # LLVM 源码阅读笔记
 
-暨软件体系结构课程作业(作业在 [wiki](https://github.com/Wonicon/LLVM-notes/wiki) 里)
+~~暨~~软件体系结构课程作业(作业在 [wiki](https://github.com/Wonicon/LLVM-notes/wiki) 里)
 
 [课程 wiki](https://github.com/caochun/sa2016/wiki)
 
-已有翻译：[开源软件架构翻译计划](http://www.ituring.com.cn/minibook/19)(~~然而并没有 LLVM~~)
+已有翻译：[开源软件架构翻译计划](http://www.ituring.com.cn/minibook/19)（~~然而并没有 LLVM 的翻译~~）
 
 ## 路线图
 
