@@ -8,8 +8,8 @@
 
 ## 路线图
 
-1. 翻译 [AOSA LLVM 章节](http://aosabook.org/en/llvm.html)
-2. 了解 LLVM IR 和开发接口(~~本心~~)
+1. ~~翻译~~ ~~[AOSA LLVM 章节](http://aosabook.org/en/llvm.html)~~（完成）
+2. 了解 LLVM IR 和开发接口
 3. 阅读 LLVM 源码
 4. ~~完成作业~~
 
